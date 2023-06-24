@@ -1,0 +1,10 @@
+1,Rukasana,Akter,21,Female,B+,Fever,Mirpur
+2,Syed,Emon,30,Male,AB+,Diabetes,Dhaka
+3,Noyon,Sorkar,20,Male,O+,ASthma,Rangpur
+4,Zahidul,Islam,35,Male,O-,Depression,Dhaka
+5,Nabila,Nusrat,18,Female,B-,Cancer,Bogura
+6,Nowshin,Tabassum,25,Female,AB-,Stroke,Badda
+7,Arafat,Apu,2,Male,B+,Allergies,Dhanmondi
+8,Protty,Rahman,28,Female,O-,COPD,Kuril
+9,Nadia,Sultana,40,Female,O+,Cancer,Banani
+10,Istiyak,Sultan,50,Male,B+,All,Banani

@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1687604888 source:c:\users\ullas\onedrive\documents\c\doctor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"splash.h"
+	"login.h"
+	"menu.h"
+
+1687450946 c:\users\ullas\onedrive\documents\c\doctor\splash.h
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<dos.h>
+
+1687453293 c:\users\ullas\onedrive\documents\c\doctor\login.h
+	<stdio.h>
+
+1687603866 c:\users\ullas\onedrive\documents\c\doctor\menu.h
+	<stdio.h>
+
+1687634698 source:c:\users\mosha\downloads\doctor-20230624t151404z-001\doctor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"splash.h"
+	"login.h"
+	"menu.h"
+
+1687634698 c:\users\mosha\downloads\doctor-20230624t151404z-001\doctor\splash.h
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<dos.h>
+
+1687634698 c:\users\mosha\downloads\doctor-20230624t151404z-001\doctor\login.h
+	<stdio.h>
+
+1687634698 c:\users\mosha\downloads\doctor-20230624t151404z-001\doctor\menu.h
+	<stdio.h>
+
